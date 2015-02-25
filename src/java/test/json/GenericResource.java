@@ -43,7 +43,7 @@ public class GenericResource {
 
     /**
      * Retrieves representation of an instance of test.json.GenericResource
-     * @return an instance of java.lang.String
+     * @return an instance of java.lang.String asdfasf
      */
     @GET
     @Produces("application/json; charset=UTF-8")
